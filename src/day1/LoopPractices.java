@@ -14,5 +14,11 @@ public class LoopPractices {
             System.out.println(each);
         }
 
+        for (int i = 0; i <=10 ; i+=2) {
+
+            System.out.println("Even numbers: "+i);
+
+        }
+
     }
 }
