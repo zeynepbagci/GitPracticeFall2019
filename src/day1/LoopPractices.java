@@ -20,7 +20,7 @@ public class LoopPractices {
 
         }
 
-        System.out.println("##############");
+
 
     }
 }
