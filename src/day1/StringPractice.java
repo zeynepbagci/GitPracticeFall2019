@@ -6,6 +6,10 @@ public class StringPractice {
 
 
         System.out.println("Hello World!");
+
+        String str = "Java is fun";
+
+        System.out.println(str);
     }
 
 
